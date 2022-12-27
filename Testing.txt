@@ -1,1 +1,2 @@
 This is now a .txt file
+This is now the final copy of the .txt file
